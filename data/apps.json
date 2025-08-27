@@ -79,7 +79,8 @@
                 { "id": "messenger", "name": "Messenger" },
                 { "id": "telegram", "name": "Telegram" },
                 { "id": "imessage", "name": "iMessage" },
-                { "id": "discord", "name": "Discord" }
+                { "id": "discord", "name": "Discord" },
+                { "id": "beeper", "name": "Beeper" }
             ],
             "private_alternatives": [
                 { "id": "signal", "name": "Signal" },
