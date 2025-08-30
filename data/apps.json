@@ -7,13 +7,12 @@
                 { "id": "gmail", "name": "Gmail" },
                 { "id": "outlook", "name": "Outlook" },
                 { "id": "yahoo_mail", "name": "Yahoo Mail" },
-                { "id": "apple_mail", "name": "Apple Mail" }
+                { "id": "icloud_mail", "name": "iCloud Mail" }
             ],
             "private_alternatives": [
                 { "id": "proton_mail", "name": "Proton Mail" },
                 { "id": "tuta_mail", "name": "Tuta Mail" },
-                { "id": "posteo", "name": "Posteo" },
-                { "id": "thunderbird", "name": "Thunderbird" }
+                { "id": "posteo", "name": "Posteo" }
             ]
         },
         {
@@ -28,7 +27,8 @@
             "private_alternatives": [
                 { "id": "ente_photos", "name": "Ente Photos" },
                 { "id": "proton_drive", "name": "Proton Drive" },
-                { "id": "immich", "name": "Immich" }
+                { "id": "immich", "name": "Immich" },
+                { "id": "nextcloud_memories", "name": "Nextcloud Memories" }
             ]
         },
         {
@@ -43,7 +43,8 @@
                 { "id": "brave_search", "name": "Brave Search" },
                 { "id": "duckduckgo", "name": "DuckDuckGo" },
                 { "id": "startpage", "name": "Startpage" },
-                { "id": "searxng", "name": "SearXNG" }
+                { "id": "searxng", "name": "SearXNG" },
+                { "id": "mojeek", "name": "Mojeek" }
             ]
         },
         {
@@ -80,7 +81,8 @@
                 { "id": "telegram", "name": "Telegram" },
                 { "id": "imessage", "name": "iMessage" },
                 { "id": "discord", "name": "Discord" },
-                { "id": "beeper", "name": "Beeper" }
+                { "id": "beeper", "name": "Beeper" },
+                { "id": "google_messages", "name": "Google Messages" }
             ],
             "private_alternatives": [
                 { "id": "signal", "name": "Signal" },
@@ -110,6 +112,7 @@
                 { "id": "logseq", "name": "Logseq" },
                 { "id": "anytype", "name": "Anytype" },
                 { "id": "nextcloud_notes", "name": "Nextcloud Notes" },
+                { "id": "fileverse", "name": "DDocs.new" },
                 { "id": "joplin", "name": "Joplin" }
             ]
         },
@@ -135,8 +138,8 @@
             "order": 8,
             "mainstream_apps": [
                 { "id": "google_passwords", "name": "Google Passwords" },
-                { "id": "icloud_keychain", "name": "iCloud Keychain" },
                 { "id": "lastpass", "name": "LastPass" },
+                { "id": "apple_passwords", "name": "Apple Passwords" },
                 { "id": "nordpass", "name": "NordPass" },
                 { "id": "dashlane", "name": "Dashlane" }
             ],
@@ -153,7 +156,8 @@
             "mainstream_apps": [
                 { "id": "google_auth", "name": "Google Auth" },
                 { "id": "microsoft_auth", "name": "Microsoft Auth" },
-                { "id": "authy", "name": "Authy" }
+                { "id": "authy", "name": "Authy" },
+                { "id": "apple_passwords", "name": "Apple Passwords" }
             ],
             "private_alternatives": [
                 { "id": "ente_auth", "name": "Ente Auth" },
