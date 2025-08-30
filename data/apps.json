@@ -207,7 +207,8 @@
                 { "id": "obscura_vpn", "name": "Obscura VPN" },
                 { "id": "ivpn", "name": "IVPN" },
                 { "id": "windscribe", "name": "Windscribe VPN" },
-                { "id": "portmaster_spn", "name": "Portmaster SPN" }
+                { "id": "portmaster_spn", "name": "Portmaster SPN" },
+                { "id": "tailscale", "name": "Tailscale" }
             ]
         },
         {
